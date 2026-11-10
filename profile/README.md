@@ -8,7 +8,7 @@
 
 | Repository | What it is |
 |---|---|
-| [**game-genre-playbooks**](https://github.com/gamegene-app/game-genre-playbooks) | A free skill for AI agents: genre-by-genre design calls with developers' answers and what they cost. Roguelites, horror, cozy games and life sims, plus calls that cross genres. One line to install in Claude Code |
+| [**game-genre-playbooks**](https://github.com/gamegene-app/game-genre-playbooks) | A skill that gives your AI agent, for each design call in your genre, what shipped games' developers chose and what it cost them. Roguelites, horror, cozy games and life sims, plus calls that cross genres. Installs in Claude Code in one line |
 | [**gamegene-mcp**](https://github.com/gamegene-app/gamegene-mcp) | The GameGene MCP server: read the records from Claude, ChatGPT, Claude Code, Codex or VS Code while you work. How to connect, and where to report problems |
 
 ## Asking for more
